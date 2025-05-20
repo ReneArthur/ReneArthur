@@ -21,21 +21,13 @@ Moro no Brasil, RS (Rio Grande do Sul), e gosto de programação, atualmente est
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </div>
 
+## Portfólio
+Alguns projetos grandes que eu fiz.
+- [Owlbear Character Status](https://github.com/ReneArthur/owlbear-character-status)
+    - React, Typescript
+- [Campanha](https://github.com/ReneArthur/campanha_django)
+    - Django, python
 
 ## Contatos
 <a href="https://www.linkedin.com/in/rene-souza-b82626277/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
           
-<!--
-**ReneArthur/ReneArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
