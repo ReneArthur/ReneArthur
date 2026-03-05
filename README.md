@@ -3,11 +3,12 @@ Moro no Brasil, RS (Rio Grande do Sul), e gosto de programação, atualmente est
 
 # Portfólio
 Alguns projetos grandes que eu fiz.
+- [SSG Python](https://github.com/ReneArthur/ssg-python)
+    - Python 
 - [Owlbear Character Status](https://github.com/ReneArthur/owlbear-character-status)
     - React, Typescript
 - [Campanha](https://github.com/ReneArthur/campanha_django)
     - Django, python
-
 
 ## Ferramentas e Tecnologias
 <div>
